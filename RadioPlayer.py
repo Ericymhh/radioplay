@@ -11,9 +11,9 @@ PLAY_HISTORY_FILE = "play_history.log"
 ICON_PATH = "Radio.ico"
 
 default_stations = {
-    "九八新聞台 News98": "https://stream.rcs.revma.com/pntx1639ntzuv.m4a",
-    "環宇廣播電台 FM96.7": "https://stream.rcs.revma.com/srn5f9kmwxhvv",
-    "IC之音竹科 FM97.5": "https://stream.rcs.revma.com/7mnq8rt7k5zuv"
+    "九八新聞台 News98": "https://stream.rcs.revma.com/pntx1639ntzuv.m4a"
+    
+    
 }
 
 def load_stations():
